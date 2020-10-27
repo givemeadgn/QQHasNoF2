@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1603778203 source:c:\users\administrator\documents\qqhasnof2\qqhasnof2\main.cpp
+	<iostream>
+	<Windows.h>
+	<iostream>
+
+1603797398 source:d:\study\specialized_course\c\qqhasnof2\main.cpp
+	<iostream>
+	<Windows.h>
+
